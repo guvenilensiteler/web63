@@ -343,6 +343,18 @@
         "miktar": "₺750",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://palazzobet202.com/?btag=2282_2250",
+        "desc": [
+          "YENİ ÜYELERE 1.000 TL DENEME BONUSU"
+        ],
+        "site": "palazzobet",
+        "sort": null,
+        "color": "#4857c3",
+        "miktar": "₺1.000",
+        "promo_code_yok": "%25 Anlık Kayıp Bonusu - Haftalık %5 Telafi Bonusu",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -432,6 +444,10 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
+          {
+            "site": "palazzobet",
+            "sort": "0"
+          },
           {
             "site": "grandpashabet",
             "sort": "1"
