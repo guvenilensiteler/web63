@@ -515,7 +515,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.2')
+            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.5')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
@@ -603,67 +603,74 @@
     })
 </script>
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        // random algroritması
-        //fetch('https://api1.siteleregiris.com/', {
-        fetch('/karistir.html', {
-            method: 'GET',
-        })
-        .then(response => {
-            return response.text();
-        })
-        .then(result => {
-            function shuffleString(input) {
-                let array = input.split('');
-                for (let i = array.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [array[i], array[j]] = [array[j], array[i]];
-                }
-                return array.join('');
-            }
-            result = shuffleString("abcdefghijk");
+document.addEventListener('DOMContentLoaded', function () {
+    is_element_load = setInterval(function(){
+        let e = document.querySelectorAll('.row.diamond:not(.clover) .col').length;
+        if (e && e.length!=0) {
+        clearInterval(is_element_load);
 
-            if (result != '') { //sunucudan veri dönmezse
-                firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
-                if (result.length <= firmalar_element.length) { // sunucudan daha uzun bir şey (hata gibi bir şey) dönerse diye ekstra kontrol
-
-                    // kaç tane sıralanacaksa, sırayla a, b, c, d, e ... dizisi oluştur
-                    var indis = new Array(result.length).fill().map((_, i) => String.fromCharCode(97 + i));
-
-                    // sitedekileri getir
-                    var en_uste_ekle = '';
-                    var firmalar_temp = [];
-                    var i = 0;
-                    firmalar_element.forEach(function(F) {
-                        if (['grandpashabet','damabet','betwoon','ramadabet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
-                            en_uste_ekle += F.outerHTML;
-                        } else {
-                            firmalar_temp[indis[i++]] = F.outerHTML;
-                        }
-                    });
-
-                    // sitedekileri sirala
-                    var firmalar_sirali = en_uste_ekle;
-                    for (i=0; i<result.length; i++) {
-                        firmalar_sirali += firmalar_temp[result[i]];
+            // random algroritması
+            //fetch('https://api1.siteleregiris.com/', {
+            fetch('/karistir.html', {
+                method: 'GET',
+            })
+            .then(response => {
+                return response.text();
+            })
+            .then(result => {
+                function shuffleString(input) {
+                    let array = input.split('');
+                    for (let i = array.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [array[i], array[j]] = [array[j], array[i]];
                     }
+                    return array.join('');
+                }
+                result = shuffleString("abcdefghijkl"); // alfabetik sıraya göre git kafana göre harf verme
 
-                    // DOM'u değiştir
-                    document.querySelector('.row.diamond:not(.clover)').innerHTML = firmalar_sirali;
+                if (result != '') { //sunucudan veri dönmezse
+                    firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
+                    if (result.length <= firmalar_element.length) { // sunucudan daha uzun bir şey (hata gibi bir şey) dönerse diye ekstra kontrol
 
+                        // kaç tane sıralanacaksa, sırayla a, b, c, d, e ... dizisi oluştur
+                        var indis = new Array(result.length).fill().map((_, i) => String.fromCharCode(97 + i));
+
+                        // sitedekileri getir
+                        var en_uste_ekle = '';
+                        var firmalar_temp = [];
+                        var i = 0;
+                        firmalar_element.forEach(function(F) {
+                            if (['grandpashabet','damabet','betwoon','ramadabet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
+                                en_uste_ekle += F.outerHTML;
+                            } else {
+                                firmalar_temp[indis[i++]] = F.outerHTML;
+                            }
+                        });
+
+                        // sitedekileri sirala
+                        var firmalar_sirali = en_uste_ekle;
+                        for (i=0; i<result.length; i++) {
+                            firmalar_sirali += firmalar_temp[result[i]];
+                        }
+
+                        // DOM'u değiştir
+                        document.querySelector('.row.diamond:not(.clover)').innerHTML = firmalar_sirali;
+
+                    } else {
+                        console.error('Sunucudan istenilen veri donmedi! Gelen veri:', result);
+                    }
                 } else {
                     console.error('Sunucudan istenilen veri donmedi! Gelen veri:', result);
                 }
-            } else {
-                console.error('Sunucudan istenilen veri donmedi! Gelen veri:', result);
-            }
-            document.querySelector('.random-algoritmasi').classList.remove('random-algoritmasi');
-        })
-        .catch(error => {
-            console.error('Hata:', error);
-            document.querySelector('.random-algoritmasi').classList.remove('random-algoritmasi');
-        });
-    });
+                document.querySelector('.random-algoritmasi').classList.remove('random-algoritmasi');
+            })
+            .catch(error => {
+                console.error('Hata:', error);
+                document.querySelector('.random-algoritmasi').classList.remove('random-algoritmasi');
+            });
+        }
+    },50);
+});
 </script>
 
 </body>
