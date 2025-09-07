@@ -446,71 +446,75 @@
         "sites": [
           {
             "site": "palazzobet",
-            "sort": "0"
-          },
-          {
-            "site": "grandpashabet",
             "sort": "1"
           },
           {
-            "site": "damabet",
+            "site": "grandpashabet",
             "sort": "2"
           },
           {
-            "site": "betwoon",
+            "site": "damabet",
             "sort": "3"
           },
           {
-            "site": "ramadabet",
+            "site": "betwoon",
             "sort": "4"
           },
           {
-            "site": "fixbet",
+            "site": "ramadabet",
             "sort": "5"
           },
           {
-            "site": "zbahis",
+            "site": "maxwin",
             "sort": "6"
           },
           {
-            "site": "matadorbet",
+            "site": "fixbet",
             "sort": "7"
           },
           {
-            "site": "tipobet",
+            "site": "zbahis",
             "sort": "8"
           },
           {
-            "site": "starzbet",
+            "site": "matadorbet",
             "sort": "9"
           },
           {
-            "site": "onwin",
+            "site": "tipobet",
             "sort": "10"
           },
           {
-            "site": "betist",
+            "site": "starzbet",
             "sort": "11"
           },
           {
-            "site": "dedebet",
+            "site": "onwin",
             "sort": "12"
           },
           {
-            "site": "sahabet",
+            "site": "betist",
             "sort": "13"
           },
           {
-            "site": "ligobet",
+            "site": "dedebet",
             "sort": "14"
           },
           {
-            "site": "amgbahis",
+            "site": "sahabet",
             "sort": "15"
           },
           {
-            "site": "mersobahis",
+            "site": "ligobet",
             "sort": "16"
+          },
+          {
+            "site": "amgbahis",
+            "sort": "17"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "18"
           }
         ]
       },
