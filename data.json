@@ -355,6 +355,18 @@
         "miktar": "₺1.000",
         "promo_code_yok": "%25 Anlık Kayıp Bonusu - Haftalık %5 Telafi Bonusu",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/frCV9jN2",
+        "desc": [
+          "500 TL DENEME BONUSU"
+        ],
+        "site": "bayspin",
+        "sort": null,
+        "color": "#edb522",
+        "miktar": "₺500",
+        "promo_code_yok": "%100 FREESPİN KAZANANA KADAR BONUS",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -444,6 +456,10 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
+          {
+            "site": "bayspin",
+            "sort": "0"
+          },
           {
             "site": "palazzobet",
             "sort": "1"
