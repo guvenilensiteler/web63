@@ -458,79 +458,79 @@
         "sites": [
           {
             "site": "bayspin",
-            "sort": "0"
-          },
-          {
-            "site": "palazzobet",
             "sort": "1"
           },
           {
-            "site": "grandpashabet",
+            "site": "palazzobet",
             "sort": "2"
           },
           {
-            "site": "mersobahis",
+            "site": "grandpashabet",
             "sort": "3"
           },
           {
-            "site": "amgbahis",
+            "site": "betist",
             "sort": "4"
           },
           {
-            "site": "damabet",
+            "site": "mersobahis",
             "sort": "5"
           },
           {
-            "site": "betwoon",
+            "site": "amgbahis",
             "sort": "6"
           },
           {
-            "site": "ramadabet",
+            "site": "damabet",
             "sort": "7"
           },
           {
-            "site": "maxwin",
+            "site": "betwoon",
             "sort": "8"
           },
           {
-            "site": "fixbet",
+            "site": "ramadabet",
             "sort": "9"
           },
           {
-            "site": "zbahis",
+            "site": "maxwin",
             "sort": "10"
           },
           {
-            "site": "matadorbet",
+            "site": "fixbet",
             "sort": "11"
           },
           {
-            "site": "tipobet",
+            "site": "zbahis",
             "sort": "12"
           },
           {
-            "site": "starzbet",
+            "site": "matadorbet",
             "sort": "13"
           },
           {
-            "site": "onwin",
+            "site": "tipobet",
             "sort": "14"
           },
           {
-            "site": "betist",
+            "site": "starzbet",
             "sort": "15"
           },
           {
-            "site": "dedebet",
+            "site": "onwin",
             "sort": "16"
           },
           {
-            "site": "sahabet",
+            "site": "dedebet",
             "sort": "17"
           },
           {
-            "site": "ligobet",
+            "site": "sahabet",
             "sort": "18"
+          },
+          {
+            "site": "ligobet",
+            "sort": "19"
           }
         ]
       },
