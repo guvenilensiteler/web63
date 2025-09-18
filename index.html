@@ -515,7 +515,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.10')
+            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.11')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
@@ -626,7 +626,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     }
                     return array.join('');
                 }
-                result = shuffleString("abcdefghi"); // alfabetik sıraya göre git kafana göre harf verme
+                result = shuffleString("abcdef"); // alfabetik sıraya göre git kafana göre harf verme
 
                 if (result != '') { //sunucudan veri dönmezse
                     firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
@@ -640,7 +640,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         var firmalar_temp = [];
                         var i = 0;
                         firmalar_element.forEach(function(F) {
-                            if (['bayspin','palazzobet','grandpashabet','betist','mersobahis','amgbahis','damabet','betwoon','ramadabet','maxwin'].includes(F.querySelector('a[site]').getAttribute('site'))) {
+                            if (['bayspin','palazzobet','grandpashabet','fixbet','matadorbet','zbahis','betist','mersobahis','amgbahis','damabet','betwoon','ramadabet','maxwin'].includes(F.querySelector('a[site]').getAttribute('site'))) {
                                 en_uste_ekle += F.outerHTML;
                             } else {
                                 firmalar_temp[indis[i++]] = F.outerHTML;
