@@ -380,7 +380,7 @@
                 });
             }
         </script>
-        <div class="row diamond random-algoritmasi"  :class="['cat' + vip.id, 'banner' + diamond.grid]">
+        <div class="row diamond random-algoritmasi_IPTAL"  :class="['cat' + vip.id, 'banner' + diamond.grid]">
             <div class="col" v-if="_.find(client.sites, ['site', site.site])" v-for="(site,siteKey) in _.orderBy(diamond.sites, [item => parseInt(item.sort)], ['asc'])" >
                 <a target="_blank" onclick="click_say(this)" :site="_.find(client.sites, ['site', site.site]).site"  :href="_.find(client.sites, ['site', site.site]).url" class="item" v-bind:style="{
     '--site-color': _.find(client.sites, ['site', site.site]).color,
@@ -515,7 +515,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.17')
+            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.18')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
@@ -604,6 +604,7 @@
 </script>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+    /*
     is_element_load = setInterval(function(){
         let e = document.querySelectorAll('.row.diamond:not(.clover) .col').length;
         if (e && e.length!=0) {
@@ -670,6 +671,7 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         }
     },50);
+    */
 });
 </script>
 

@@ -457,80 +457,76 @@
         "sort": "3",
         "sites": [
           {
-            "site": "onwin",
+            "site": "grandpashabet",
             "sort": "1"
           },
           {
-            "site": "sahabet",
+            "site": "onwin",
             "sort": "2"
           },
           {
-            "site": "palazzobet",
+            "site": "ramadabet",
             "sort": "3"
           },
           {
-            "site": "ligobet",
+            "site": "damabet",
             "sort": "4"
           },
           {
-            "site": "grandpashabet",
+            "site": "betwoon",
             "sort": "5"
           },
           {
-            "site": "matadorbet",
+            "site": "dedebet",
             "sort": "6"
           },
           {
-            "site": "zbahis",
+            "site": "palazzobet",
             "sort": "7"
           },
           {
-            "site": "bayspin",
+            "site": "fixbet",
             "sort": "8"
           },
           {
-            "site": "betist",
+            "site": "zbahis",
             "sort": "9"
           },
           {
-            "site": "mersobahis",
+            "site": "matadorbet",
             "sort": "10"
           },
           {
-            "site": "amgbahis",
+            "site": "bayspin",
             "sort": "11"
           },
           {
-            "site": "damabet",
+            "site": "ligobet",
             "sort": "12"
           },
           {
-            "site": "betwoon",
+            "site": "sahabet",
             "sort": "13"
           },
           {
-            "site": "ramadabet",
+            "site": "tipobet",
             "sort": "14"
           },
           {
-            "site": "maxwin",
+            "site": "starzbet",
             "sort": "15"
           },
           {
-            "site": "tipobet",
+            "site": "betist",
             "sort": "16"
           },
           {
-            "site": "starzbet",
+            "site": "mersobahis",
             "sort": "17"
           },
           {
-            "site": "dedebet",
+            "site": "amgbahis",
             "sort": "18"
-          },
-          {
-            "site": "fixbet",
-            "sort": "19"
           }
         ]
       },
