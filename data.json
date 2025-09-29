@@ -162,7 +162,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/sosyalapmaxw",
+        "url": "https://cutt.ly/ercmaxw",
         "desc": [
           "ÜYE OL 300₺ DENEME BONUSU AL"
         ],
@@ -458,42 +458,46 @@
         "sites": [
           {
             "site": "grandpashabet",
+            "sort": "0"
+          },
+          {
+            "site": "maxwin",
             "sort": "1"
           },
           {
-            "site": "onwin",
+            "site": "ramadabet",
             "sort": "2"
           },
           {
-            "site": "ramadabet",
+            "site": "damabet",
             "sort": "3"
           },
           {
-            "site": "damabet",
+            "site": "betwoon",
             "sort": "4"
           },
           {
-            "site": "betwoon",
+            "site": "dedebet",
             "sort": "5"
           },
           {
-            "site": "dedebet",
+            "site": "palazzobet",
             "sort": "6"
           },
           {
-            "site": "palazzobet",
+            "site": "fixbet",
             "sort": "7"
           },
           {
-            "site": "fixbet",
+            "site": "zbahis",
             "sort": "8"
           },
           {
-            "site": "zbahis",
+            "site": "matadorbet",
             "sort": "9"
           },
           {
-            "site": "matadorbet",
+            "site": "onwin",
             "sort": "10"
           },
           {
