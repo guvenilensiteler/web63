@@ -321,7 +321,8 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/jrfsp5kQ",
+        "url": "https://cutt.ly/orMBr7Kj",
+        "url_eski": "https://cutt.ly/jrfsp5kQ",
         "desc": [
           "KAYIT OL 1.000 TL DENEME BONUSU AL !"
         ],
@@ -457,61 +458,62 @@
         "sort": "3",
         "sites": [
           {
-            "site": "grandpashabet",
+            "site": "sahabet",
             "sort": "0"
           },
           {
-            "site": "maxwin",
+            "site": "grandpashabet",
             "sort": "1"
           },
           {
-            "site": "ramadabet",
+            "site": "maxwin",
             "sort": "2"
           },
           {
-            "site": "damabet",
+            "site": "ramadabet",
             "sort": "3"
           },
           {
-            "site": "betwoon",
+            "site": "damabet",
             "sort": "4"
           },
           {
-            "site": "dedebet",
+            "site": "betwoon",
             "sort": "5"
           },
           {
-            "site": "palazzobet",
+            "site": "dedebet",
             "sort": "6"
           },
           {
-            "site": "fixbet",
+            "site": "palazzobet",
             "sort": "7"
           },
           {
-            "site": "zbahis",
+            "site": "fixbet",
             "sort": "8"
           },
           {
-            "site": "matadorbet",
+            "site": "zbahis",
             "sort": "9"
           },
           {
-            "site": "onwin",
+            "site": "matadorbet",
             "sort": "10"
           },
           {
-            "site": "bayspin",
+            "site": "onwin",
             "sort": "11"
           },
           {
-            "site": "ligobet",
+            "site": "bayspin",
             "sort": "12"
           },
           {
-            "site": "sahabet",
+            "site": "ligobet",
             "sort": "13"
           },
+
           {
             "site": "tipobet",
             "sort": "14"
