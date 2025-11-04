@@ -368,6 +368,30 @@
         "miktar": "₺500",
         "promo_code_yok": "%100 FREESPİN KAZANANA KADAR BONUS",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/er5mCqIX",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "supertotobet",
+        "sort": null,
+        "color": "#ff003c",
+        "miktar": "₺1.000",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/7r5QxbTc",
+        "desc": [
+          "666 TL DENEME BONUSU"
+        ],
+        "site": "solobet",
+        "sort": null,
+        "color": "#ff7400",
+        "miktar": "₺666",
+        "promo_code": null,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -470,7 +494,7 @@
             "sort": "3"
           },
           {
-            "site": "onwin",
+            "site": "grandpashabet",
             "sort": "4"
           },
           {
@@ -486,7 +510,7 @@
             "sort": "7"
           },
           {
-            "site": "grandpashabet",
+            "site": "onwin",
             "sort": "8"
           },
           {
@@ -536,6 +560,14 @@
           {
             "site": "marsbahis",
             "sort": "20"
+          },
+          {
+            "site": "solobet",
+            "sort": "21"
+          },
+          {
+            "site": "supertotobet",
+            "sort": "22"
           }
         ]
       },
