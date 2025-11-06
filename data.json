@@ -392,6 +392,30 @@
         "miktar": "₺666",
         "promo_code": null,
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuvnm",
+        "desc": [
+          "ÜYE OL, BONUSU AL"
+        ],
+        "site": "venombet",
+        "sort": null,
+        "color": "#ff002b",
+        "miktar": "₺300",
+        "promo_code_yok": "%50 SLOT BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/Ercuapsh",
+        "desc": [
+          "300 TL DENEME BONUSU"
+        ],
+        "site": "pashagaming",
+        "sort": null,
+        "color": "#ebb800",
+        "miktar": "₺300",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -568,6 +592,14 @@
           {
             "site": "supertotobet",
             "sort": "22"
+          },
+          {
+            "site": "venombet",
+            "sort": "23"
+          },
+          {
+            "site": "pashagaming",
+            "sort": "24"
           }
         ]
       },
