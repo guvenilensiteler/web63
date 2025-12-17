@@ -416,6 +416,18 @@
         "miktar": "₺300",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapxbahibom",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "bahibom",
+        "sort": null,
+        "color": "#b60d83",
+        "miktar": "₺1.000",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -506,83 +518,84 @@
         "sort": "3",
         "sites": [
           {
-            "site": "tipobet",
+            "site": "grandpashabet",
             "sort": "1"
           },
           {
-            "site": "bayspin",
+            "site": "ligobet",
             "sort": "2"
           },
           {
-            "site": "sahabet",
+            "site": "marsbahis",
             "sort": "3"
           },
           {
-            "site": "grandpashabet",
+            "site": "damabet",
             "sort": "4"
           },
           {
-            "site": "ligobet",
+            "site": "ramadabet",
             "sort": "5"
           },
           {
-            "site": "starzbet",
+            "site": "maxwin",
             "sort": "6"
           },
           {
-            "site": "matadorbet",
+            "site": "venombet",
             "sort": "7"
           },
           {
-            "site": "onwin",
+            "site": "pashagaming",
             "sort": "8"
           },
           {
-            "site": "fixbet",
+            "site": "palazzobet",
             "sort": "9"
           },
+
           {
-            "site": "zbahis",
+            "site": "tipobet",
             "sort": "10"
           },
           {
-            "site": "palazzobet",
+            "site": "bayspin",
             "sort": "11"
           },
           {
-            "site": "betwoon",
+            "site": "starzbet",
             "sort": "12"
           },
           {
-            "site": "dedebet",
+            "site": "matadorbet",
             "sort": "13"
           },
           {
-            "site": "damabet",
+            "site": "onwin",
             "sort": "14"
           },
           {
-            "site": "maxwin",
+            "site": "fixbet",
             "sort": "15"
           },
           {
-            "site": "ramadabet",
+            "site": "zbahis",
             "sort": "16"
           },
           {
-            "site": "betist",
+            "site": "betwoon",
             "sort": "17"
           },
           {
-            "site": "mersobahis",
+            "site": "dedebet",
             "sort": "18"
           },
           {
-            "site": "amgbahis",
+            "site": "mersobahis",
             "sort": "19"
           },
           {
-            "site": "marsbahis",
+            "site": "amgbahis",
             "sort": "20"
           },
           {
@@ -594,12 +607,8 @@
             "sort": "22"
           },
           {
-            "site": "venombet",
+            "site": "bahibom",
             "sort": "23"
-          },
-          {
-            "site": "pashagaming",
-            "sort": "24"
           }
         ]
       },
