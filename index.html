@@ -640,7 +640,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         var firmalar_temp = [];
                         var i = 0;
                         firmalar_element.forEach(function(F) {
-                            if (['grandpashabet','ligobet','marsbahis','damabet','ramadabet','maxwin','venombet','pashagaming','palazzobet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
+                            if (['grandpashabet','marsbahis','damabet','ramadabet','maxwin','venombet','pashagaming','palazzobet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
                                 en_uste_ekle += F.outerHTML;
                             } else {
                                 firmalar_temp[indis[i++]] = F.outerHTML;
