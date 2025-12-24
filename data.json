@@ -428,6 +428,30 @@
         "miktar": "₺1.000",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/instahuqqaa",
+        "desc": [
+          "İLK YATIRIMINIZA ÖZEL HOŞGELDİN BONUSU"
+        ],
+        "site": "huqqabet",
+        "sort": null,
+        "color": "#00ff79",
+        "miktar": "₺4.444",
+        "promo_code_yok": "TÜM YATIRIMLARA ÖZEL ERTESİ GÜN FREE SPIN",
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/insta588giris",
+        "desc": [
+          "3000₺ Çekimli deneme bonusu"
+        ],
+        "site": "locabet",
+        "sort": null,
+        "color": "#f5c542",
+        "miktar": "₺3.000",
+        "promo_code_yok": "İlk yatırımınıza özel %50 kayıp bonusu",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -606,6 +630,14 @@
           {
             "site": "bahibom",
             "sort": "23"
+          },
+          {
+            "site": "huqqabet",
+            "sort": "24"
+          },
+          {
+            "site": "locabet",
+            "sort": "25"
           }
         ]
       },
