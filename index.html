@@ -515,7 +515,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.36')
+            axios.get('https://web.guvenilensitelergir.com/data.json?v=0.0.37')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
@@ -626,7 +626,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     }
                     return array.join('');
                 }
-                result = shuffleString("abcdefghijk"); // alfabetik sıraya göre git kafana göre harf verme
+                result = shuffleString("abcdefghij"); // alfabetik sıraya göre git kafana göre harf verme
 
                 if (result != '') { //sunucudan veri dönmezse
                     firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
