@@ -126,7 +126,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/NrH49APA",
+        "url": "https://cutt.ly/ctxjMZOX",
         "desc": [
           "750₺ DENEME BONUSU"
         ],
@@ -554,7 +554,7 @@
         "sort": "3",
         "sites": [
           {
-            "site": "dedebet",
+            "site": "bahiscom",
             "sort": "1"
           },
           {
@@ -570,89 +570,93 @@
             "sort": "4"
           },
           {
-            "site": "marsbahis",
+            "site": "dedebet",
             "sort": "5"
           },
           {
-            "site": "damabet",
+            "site": "marsbahis",
             "sort": "6"
           },
           {
-            "site": "venombet",
+            "site": "damabet",
             "sort": "7"
+          },
+          {
+            "site": "venombet",
+            "sort": "8"
           },
 
           {
             "site": "bayspin",
-            "sort": "8"
-          },
-          {
-            "site": "mersobahis",
             "sort": "9"
           },
           {
-            "site": "amgbahis",
+            "site": "mersobahis",
             "sort": "10"
           },
           {
-            "site": "ramadabet",
+            "site": "amgbahis",
             "sort": "11"
           },
           {
-            "site": "maxwin",
+            "site": "ramadabet",
             "sort": "12"
           },
           {
-            "site": "anubisbet",
+            "site": "maxwin",
             "sort": "13"
           },
           {
-            "site": "pashagaming",
+            "site": "anubisbet",
             "sort": "14"
           },
           {
-            "site": "starzbet",
+            "site": "pashagaming",
             "sort": "16"
           },
           {
-            "site": "matadorbet",
+            "site": "starzbet",
             "sort": "17"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "18"
           },
           {
-            "site": "zbahis",
+            "site": "fixbet",
             "sort": "19"
           },
           {
-            "site": "betwoon",
+            "site": "zbahis",
             "sort": "20"
           },
           {
-            "site": "solobet",
+            "site": "betwoon",
             "sort": "21"
           },
           {
-            "site": "supertotobet",
+            "site": "solobet",
             "sort": "22"
           },
           {
-            "site": "bahibom",
+            "site": "supertotobet",
             "sort": "23"
           },
           {
-            "site": "huqqabet",
+            "site": "bahibom",
             "sort": "24"
           },
           {
-            "site": "locabet",
+            "site": "huqqabet",
             "sort": "25"
           },
           {
-            "site": "primebahis",
+            "site": "locabet",
             "sort": "26"
+          },
+          {
+            "site": "primebahis",
+            "sort": "27"
           }
         ]
       },
