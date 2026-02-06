@@ -515,7 +515,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://web.guvenlibonus.com/data.json?v=0.0.45')
+            axios.get('https://web.guvenlibonus.com/data.json?v=0.0.46')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
@@ -640,7 +640,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         var firmalar_temp = [];
                         var i = 0;
                         firmalar_element.forEach(function(F) {
-                            if (['bahiscom','dedebet','onwin','grandpashabet','palazzobet','marsbahis','damabet','venombet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
+                            if (['supertotobet','bahiscom','dedebet','onwin','palazzobet','marsbahis','damabet','venombet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
                                 en_uste_ekle += F.outerHTML;
                             } else {
                                 firmalar_temp[indis[i++]] = F.outerHTML;

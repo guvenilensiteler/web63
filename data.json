@@ -401,7 +401,7 @@
         "site": "venombet",
         "sort": null,
         "color": "#ff002b",
-        "miktar": "₺300",
+        "miktar": "₺500",
         "promo_code_yok": "%50 SLOT BONUSU",
         "slider_img": ""
       },
@@ -554,108 +554,110 @@
         "sort": "3",
         "sites": [
           {
-            "site": "bahiscom",
+            "site": "supertotobet",
             "sort": "1"
           },
           {
-            "site": "onwin",
+            "site": "bahiscom",
             "sort": "2"
           },
           {
-            "site": "grandpashabet",
+            "site": "onwin",
             "sort": "3"
           },
           {
-            "site": "palazzobet",
+            "site": "solobet",
             "sort": "4"
           },
+
           {
-            "site": "dedebet",
-            "sort": "5"
-          },
-          {
-            "site": "marsbahis",
+            "site": "palazzobet",
             "sort": "6"
           },
           {
-            "site": "damabet",
+            "site": "dedebet",
             "sort": "7"
           },
           {
-            "site": "venombet",
+            "site": "marsbahis",
             "sort": "8"
+          },
+          {
+            "site": "damabet",
+            "sort": "9"
+          },
+          {
+            "site": "venombet",
+            "sort": "10"
           },
 
           {
             "site": "bayspin",
-            "sort": "9"
-          },
-          {
-            "site": "mersobahis",
-            "sort": "10"
-          },
-          {
-            "site": "amgbahis",
             "sort": "11"
           },
           {
-            "site": "ramadabet",
+            "site": "mersobahis",
             "sort": "12"
           },
           {
-            "site": "maxwin",
+            "site": "amgbahis",
             "sort": "13"
           },
           {
-            "site": "anubisbet",
+            "site": "ramadabet",
             "sort": "14"
           },
           {
-            "site": "pashagaming",
+            "site": "maxwin",
+            "sort": "15"
+          },
+          {
+            "site": "anubisbet",
             "sort": "16"
           },
           {
-            "site": "starzbet",
+            "site": "pashagaming",
             "sort": "17"
           },
           {
-            "site": "matadorbet",
+            "site": "starzbet",
             "sort": "18"
           },
           {
-            "site": "fixbet",
+            "site": "matadorbet",
             "sort": "19"
           },
           {
-            "site": "zbahis",
+            "site": "fixbet",
             "sort": "20"
           },
           {
-            "site": "betwoon",
+            "site": "zbahis",
             "sort": "21"
           },
           {
-            "site": "solobet",
+            "site": "betwoon",
             "sort": "22"
           },
+
           {
-            "site": "supertotobet",
+            "site": "bahibom",
             "sort": "23"
           },
           {
-            "site": "bahibom",
+            "site": "huqqabet",
             "sort": "24"
           },
           {
-            "site": "huqqabet",
+            "site": "locabet",
             "sort": "25"
           },
           {
-            "site": "locabet",
+            "site": "primebahis",
             "sort": "26"
           },
           {
-            "site": "primebahis",
+            "site": "grandpashabet",
             "sort": "27"
           }
         ]
