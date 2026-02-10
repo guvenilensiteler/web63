@@ -554,66 +554,69 @@
         "sort": "3",
         "sites": [
           {
-            "site": "supertotobet",
+            "site": "mersobahis",
             "sort": "1"
           },
           {
-            "site": "bahiscom",
+            "site": "grandpashabet",
             "sort": "2"
           },
           {
-            "site": "solobet",
+            "site": "onwin",
             "sort": "3"
           },
           {
-            "site": "onwin",
+            "site": "amgbahis",
             "sort": "4"
           },
-
-
           {
             "site": "palazzobet",
-            "sort": "6"
+            "sort": "5"
           },
           {
             "site": "dedebet",
-            "sort": "7"
+            "sort": "6"
           },
           {
             "site": "marsbahis",
-            "sort": "8"
+            "sort": "7"
           },
           {
             "site": "damabet",
-            "sort": "9"
+            "sort": "8"
           },
           {
             "site": "venombet",
+            "sort": "9"
+          },
+          {
+            "site": "bahibom",
             "sort": "10"
-          },
-
-          {
-            "site": "bayspin",
-            "sort": "11"
-          },
-          {
-            "site": "mersobahis",
-            "sort": "12"
-          },
-          {
-            "site": "amgbahis",
-            "sort": "13"
-          },
-          {
-            "site": "ramadabet",
-            "sort": "14"
-          },
-          {
-            "site": "maxwin",
-            "sort": "15"
           },
           {
             "site": "anubisbet",
+            "sort": "11"
+          },
+
+
+          {
+            "site": "supertotobet",
+            "sort": "12"
+          },
+          {
+            "site": "solobet",
+            "sort": "13"
+          },
+          {
+            "site": "bayspin",
+            "sort": "14"
+          },
+          {
+            "site": "ramadabet",
+            "sort": "15"
+          },
+          {
+            "site": "maxwin",
             "sort": "16"
           },
           {
@@ -640,26 +643,13 @@
             "site": "betwoon",
             "sort": "22"
           },
-
           {
-            "site": "bahibom",
+            "site": "huqqabet",
             "sort": "23"
           },
           {
-            "site": "huqqabet",
-            "sort": "24"
-          },
-          {
             "site": "locabet",
-            "sort": "25"
-          },
-          {
-            "site": "primebahis",
-            "sort": "26"
-          },
-          {
-            "site": "grandpashabet",
-            "sort": "27"
+            "sort": "24"
           }
         ]
       },
