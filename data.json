@@ -126,7 +126,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/NrH49APA",
+        "url": "https://cutt.ly/ctxjMZOX",
         "desc": [
           "750₺ DENEME BONUSU"
         ],
@@ -458,9 +458,9 @@
         "desc": [
           "250₺ RİSKSİZ DENEME BONUSU"
         ],
-        "site": "anubisbet",
+        "site": "sloto",
         "sort": null,
-        "color": "#ffdf00",
+        "color": "#fcbc00",
         "miktar": "₺250",
         "promo_code_yok": "HER YATIRIMA ÖZEL FREESPIN HEDİYE",
         "slider_img": ""
@@ -477,7 +477,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://guvenlisitelerim.com/",
+    "cdn_url": "https://web.guvenlibonus.com/",
     "is_slider": true,
     "background": null,
     "categories": [
@@ -554,15 +554,15 @@
         "sort": "3",
         "sites": [
           {
-            "site": "grandpashabet",
+            "site": "onwin",
             "sort": "1"
           },
           {
-            "site": "onwin",
+            "site": "grandpashabet",
             "sort": "2"
           },
           {
-            "site": "dedebet",
+            "site": "tipobet",
             "sort": "3"
           },
           {
@@ -570,7 +570,7 @@
             "sort": "4"
           },
           {
-            "site": "venombet",
+            "site": "bahibom",
             "sort": "5"
           },
           {
@@ -578,38 +578,39 @@
             "sort": "6"
           },
           {
-            "site": "damabet",
+            "site": "venombet",
             "sort": "7"
           },
-
           {
-            "site": "supertotobet",
+            "site": "damabet",
             "sort": "8"
           },
           {
-            "site": "fixbet",
+            "site": "ramadabet",
             "sort": "9"
           },
           {
-            "site": "solobet",
+            "site": "zbahis",
             "sort": "10"
           },
           {
-            "site": "zbahis",
+            "site": "fixbet",
             "sort": "11"
           },
           {
-            "site": "matadorbet",
+            "site": "maxwin",
             "sort": "12"
           },
           {
-            "site": "bahibom",
+            "site": "solobet",
             "sort": "13"
           },
           {
-            "site": "anubisbet",
+            "site": "supertotobet",
             "sort": "14"
           },
+
+
           {
             "site": "mersobahis",
             "sort": "15"
@@ -619,27 +620,27 @@
             "sort": "16"
           },
           {
-            "site": "primebahis",
+            "site": "dedebet",
             "sort": "17"
           },
           {
-            "site": "bayspin",
+            "site": "sloto",
             "sort": "18"
           },
           {
-            "site": "ramadabet",
+            "site": "bayspin",
             "sort": "19"
           },
           {
-            "site": "maxwin",
+            "site": "pashagaming",
             "sort": "20"
           },
           {
-            "site": "pashagaming",
+            "site": "starzbet",
             "sort": "21"
           },
           {
-            "site": "starzbet",
+            "site": "matadorbet",
             "sort": "22"
           },
           {
