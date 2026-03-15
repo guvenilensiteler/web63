@@ -464,6 +464,90 @@
         "miktar": "₺250",
         "promo_code_yok": "HER YATIRIMA ÖZEL FREESPIN HEDİYE",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapleo",
+        "desc": [
+          "YATIRIM ŞARTSIZ 1000TL DENEME BONUSU"
+        ],
+        "site": "leogrand",
+        "sort": null,
+        "color": "#dea736",
+        "miktar": "₺1.000",
+        "promo_code_yok": "4 YATIRIM YAP 5. YATIRIMIN BİZDEN",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapspc",
+        "desc": [
+          "Yatırıma Ek %50 Çevrimsiz Bonus"
+        ],
+        "site": "spinco",
+        "sort": null,
+        "color": "#1cb322",
+        "miktar": "₺2.000",
+        "promo_code_yok": "1.000.000 DEV ÖDÜL HAVUZU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuap_super",
+        "desc": [
+          "HER YATIRIMINIZA 50% SLOT BONUSU"
+        ],
+        "site": "superbet",
+        "sort": null,
+        "color": "#f7b105",
+        "miktar": "₺2.000",
+        "promo_code_yok": "ÇEVRİM ŞARTSIZ %7 EKSTRA TELAFİ BONUSU!",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuappasus",
+        "desc": [
+          "%150 CASINO BONUSU"
+        ],
+        "site": "betasus",
+        "sort": null,
+        "color": "#c59d48",
+        "miktar": "₺2.000",
+        "promo_code_yok": "YENİ ÜYELERE ÖZEL 2.000 TL DENEME BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapBw",
+        "desc": [
+          "%125 YATIRIM BONUSU"
+        ],
+        "site": "betwild",
+        "sort": null,
+        "color": "#06892f",
+        "miktar": "₺1.000",
+        "promo_code_yok": "GÜNLÜK 10.000.000TL ÇEKİM İMKANI!",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapcrt",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "cratos",
+        "sort": null,
+        "color": "#ebdf9d",
+        "miktar": "₺1.000",
+        "promo_code_yok": "%60 ÇEVRİMSİZ KRİPTO YATIRIM BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/palaceercuap",
+        "desc": [
+          "YENİ ÜYELERE ÖZEL 2.000 TL DENEME BONUSU"
+        ],
+        "site": "palacebet",
+        "sort": null,
+        "color": "#f6e314",
+        "miktar": "₺2.000",
+        "promo_code_yok": "ANLIK %40 KAYIP BONUSU!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -566,94 +650,85 @@
             "sort": "3"
           },
           {
-            "site": "palazzobet",
+            "site": "sahabet",
             "sort": "4"
           },
           {
-            "site": "bahibom",
+            "site": "marsbahis",
             "sort": "5"
           },
           {
-            "site": "marsbahis",
+            "site": "leogrand",
             "sort": "6"
           },
           {
-            "site": "venombet",
+            "site": "spinco",
             "sort": "7"
           },
           {
-            "site": "damabet",
+            "site": "superbet",
             "sort": "8"
           },
           {
-            "site": "ramadabet",
+            "site": "fixbet",
             "sort": "9"
           },
+
           {
-            "site": "zbahis",
+            "site": "palazzobet",
             "sort": "10"
           },
           {
-            "site": "fixbet",
+            "site": "bahibom",
             "sort": "11"
           },
           {
-            "site": "maxwin",
+            "site": "venombet",
             "sort": "12"
           },
           {
-            "site": "solobet",
+            "site": "mersobahis",
             "sort": "13"
           },
           {
-            "site": "supertotobet",
-            "sort": "14"
-          },
-
-
-          {
-            "site": "mersobahis",
-            "sort": "15"
-          },
-          {
             "site": "amgbahis",
-            "sort": "16"
+            "sort": "14"
           },
           {
             "site": "dedebet",
-            "sort": "17"
+            "sort": "15"
           },
           {
             "site": "sloto",
-            "sort": "18"
-          },
-          {
-            "site": "bayspin",
-            "sort": "19"
-          },
-          {
-            "site": "pashagaming",
-            "sort": "20"
-          },
-          {
-            "site": "starzbet",
-            "sort": "21"
-          },
-          {
-            "site": "matadorbet",
-            "sort": "22"
+            "sort": "16"
           },
           {
             "site": "betwoon",
-            "sort": "23"
+            "sort": "17"
           },
           {
             "site": "huqqabet",
-            "sort": "24"
+            "sort": "18"
           },
           {
             "site": "locabet",
-            "sort": "25"
+            "sort": "19"
+          },
+          {
+            "site": "betasus",
+            "sort": "20"
+          },
+          {
+            "site": "betwild",
+            "sort": "21"
+          },
+          {
+            "site": "cratos",
+            "sort": "22"
+          },
+          {
+            "site": "palacebet",
+            "sort": "23"
           }
         ]
       },
