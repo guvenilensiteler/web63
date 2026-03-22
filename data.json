@@ -548,6 +548,18 @@
         "miktar": "₺2.000",
         "promo_code_yok": "ANLIK %40 KAYIP BONUSU!",
         "slider_img": ""
+      },
+      {
+        "url": "https://prod.fgtrack.net/click?domain=mistycasino.com&uid=id2oDMzn",
+        "desc": [
+          "İLK YATIRIMA ÖZEL %100"
+        ],
+        "site": "misty",
+        "sort": null,
+        "color": "#ffe93f",
+        "miktar": "₺1.000",
+        "promo_code_yok": "HOŞGELDİN BONUSU | RTP ORANI YÜKSEK SİTE",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -639,34 +651,38 @@
         "sites": [
           {
             "site": "onwin",
-            "sort": "1"
+            "sort": "0"
           },
           {
             "site": "grandpashabet",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "tipobet",
-            "sort": "3"
+            "sort": "2"
           },
           {
             "site": "sahabet",
-            "sort": "4"
+            "sort": "3"
           },
           {
             "site": "marsbahis",
-            "sort": "5"
+            "sort": "4"
           },
           {
             "site": "mersobahis",
-            "sort": "6"
+            "sort": "5"
           },
           {
             "site": "amgbahis",
-            "sort": "7"
+            "sort": "6"
           },
           {
             "site": "superbet",
+            "sort": "7"
+          },
+          {
+            "site": "misty",
             "sort": "8"
           },
           {
