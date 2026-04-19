@@ -663,22 +663,18 @@
         "sites": [
           {
             "site": "onwin",
-            "sort": "0"
-          },
-          {
-            "site": "palazzobet",
             "sort": "1"
           },
           {
-            "site": "grandpashabet",
+            "site": "palazzobet",
             "sort": "2"
           },
           {
-            "site": "tipobet",
+            "site": "sahabet",
             "sort": "3"
           },
           {
-            "site": "sahabet",
+            "site": "tipobet",
             "sort": "4"
           },
           {
@@ -686,37 +682,44 @@
             "sort": "5"
           },
           {
-            "site": "dodobet",
+            "site": "bahibom",
             "sort": "6"
           },
           {
-            "site": "mersobahis",
+            "site": "misty",
             "sort": "7"
           },
           {
-            "site": "amgbahis",
+            "site": "dodobet",
             "sort": "8"
           },
           {
-            "site": "superbet",
+            "site": "cratosroyal",
             "sort": "9"
           },
           {
-            "site": "misty",
+            "site": "grandpashabet",
             "sort": "10"
-          },
-
-          {
-            "site": "leogrand",
-            "sort": "12"
           },
           {
             "site": "spinco",
-            "sort": "13"
+            "sort": "11"
           },
 
           {
-            "site": "bahibom",
+            "site": "mersobahis",
+            "sort": "12"
+          },
+          {
+            "site": "amgbahis",
+            "sort": "13"
+          },
+          {
+            "site": "superbet",
+            "sort": "14"
+          },
+          {
+            "site": "leogrand",
             "sort": "15"
           },
           {
@@ -752,12 +755,8 @@
             "sort": "23"
           },
           {
-            "site": "cratosroyal",
-            "sort": "24"
-          },
-          {
             "site": "palacebet",
-            "sort": "25"
+            "sort": "24"
           }
         ]
       },
