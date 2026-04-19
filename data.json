@@ -663,6 +663,10 @@
         "sites": [
           {
             "site": "onwin",
+            "sort": "0"
+          },
+          {
+            "site": "palazzobet",
             "sort": "1"
           },
           {
@@ -710,10 +714,7 @@
             "site": "spinco",
             "sort": "13"
           },
-          {
-            "site": "palazzobet",
-            "sort": "14"
-          },
+
           {
             "site": "bahibom",
             "sort": "15"
