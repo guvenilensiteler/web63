@@ -571,6 +571,18 @@
         "miktar": "₺1.000",
         "promo_code": null,
         "slider_img": ""
+      },
+      {
+        "url": "https://bsinplus.com/sin252",
+        "desc": [
+          "viplerin favori sitesi !"
+        ],
+        "site": "betsin",
+        "sort": null,
+        "color": "#f99100",
+        "miktar": "₺2.500",
+        "promo_code_yok": "Sınırsız çekim anlık %30 discount",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -669,62 +681,62 @@
             "sort": "2"
           },
           {
-            "site": "grandpashabet",
+            "site": "sahabet",
             "sort": "3"
           },
           {
-            "site": "palazzobet",
+            "site": "misty",
             "sort": "4"
           },
           {
-            "site": "bahibom",
+            "site": "marsbahis",
             "sort": "5"
           },
           {
-            "site": "marsbahis",
+            "site": "palazzobet",
             "sort": "6"
           },
           {
-            "site": "misty",
+            "site": "grandpashabet",
             "sort": "7"
           },
           {
-            "site": "sahabet",
+            "site": "bahibom",
             "sort": "8"
           },
           {
-            "site": "dodobet",
+            "site": "betsin",
             "sort": "9"
           },
           {
-            "site": "cratosroyal",
+            "site": "mersobahis",
             "sort": "10"
           },
           {
-            "site": "spinco",
+            "site": "amgbahis",
             "sort": "11"
           },
 
-
-
-
           {
-            "site": "mersobahis",
+            "site": "dodobet",
             "sort": "12"
           },
           {
-            "site": "amgbahis",
+            "site": "cratosroyal",
             "sort": "13"
           },
           {
-            "site": "superbet",
+            "site": "spinco",
             "sort": "14"
           },
           {
-            "site": "leogrand",
+            "site": "superbet",
             "sort": "15"
           },
-
+          {
+            "site": "leogrand",
+            "sort": "16"
+          },
           {
             "site": "dedebet",
             "sort": "17"
