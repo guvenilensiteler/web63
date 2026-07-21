@@ -321,15 +321,15 @@
         "slider_img": ""
       },
       {
-        "url": "https://shrtly.to/O2um",
+        "url": "https://shrtly.to/QzfA",
         "desc": [
-          "KAYIT OL 1.000 TL DENEME BONUSU AL !"
+          "KAYIT OL 3200 TL DENEME BONUSU AL !"
         ],
         "site": "sahabet",
         "sort": null,
         "color": "#008000",
-        "miktar": "₺1.000",
-        "promo_code_yok": "YATIRIM ŞARTSIZ 1.000 TL ÇEKİM YAP",
+        "miktar": "₺3200",
+        "promo_code_yok": "",
         "slider_img": ""
       },
       {
@@ -684,7 +684,10 @@
             "site": "grandpashabet",
             "sort": "3"
           },
-
+          {
+            "site": "sahabet",
+            "sort": "4"
+          },
           {
             "site": "betsin",
             "sort": "5"
